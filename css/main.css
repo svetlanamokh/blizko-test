@@ -144,3 +144,18 @@ svg {
     position: relative;
     text-align: center;
 }
+
+
+@media screen and (max-width: 767px) {
+    .main-content {
+        margin: 20px;
+    }
+
+    .article-page {
+        padding: 20px;
+    }
+
+    .sub-article {
+        padding: 20px;
+    }
+}
