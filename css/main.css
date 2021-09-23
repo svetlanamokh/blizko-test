@@ -158,4 +158,8 @@ svg {
     .sub-article {
         padding: 20px;
     }
+
+    .btn-chose {
+        min-width: 35px;
+    }
 }
